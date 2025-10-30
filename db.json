@@ -2,23 +2,23 @@
    "key-types": [
       {
          "name":"CPF",
-         "value":"TransactionKeyType.CPF"
+         "value":"cpf"
       },
       {
          "name":"CNPJ",
-         "value":"TransactionKeyType.CNPJ"
+         "value":"cnpj"
       },
       {
          "name":"Telefone",
-         "value":"TransactionKeyType.Phone"
+         "value":"phone"
       },
       {
          "name":"E-mail",
-         "value":"TransactionKeyType.Email"
+         "value":"email"
       },
       {
          "name":"Chave aleatória",
-         "value":"TransactionKeyType.Random"
+         "value":"random"
       }
    ],
    "destinatary":{
