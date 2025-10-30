@@ -1,4 +1,26 @@
 {
+   "key-types": [
+      {
+         "name":"CPF",
+         "value":"TransactionKeyType.CPF"
+      },
+      {
+         "name":"CNPJ",
+         "value":"TransactionKeyType.CNPJ"
+      },
+      {
+         "name":"Telefone",
+         "value":"TransactionKeyType.Phone"
+      },
+      {
+         "name":"E-mail",
+         "value":"TransactionKeyType.Email"
+      },
+      {
+         "name":"Chave aleatória",
+         "value":"TransactionKeyType.Random"
+      }
+   ],
    "destinatary":{
       "recipientInfo":{
          "initials":"JS",
