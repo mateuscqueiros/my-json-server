@@ -3,7 +3,7 @@
   "recipientInfo": {
     "initials": "JS",
     "name": "João da Silva",
-    "document": "CPF: 300.939.996-07"
+    "document": "300.939.996-07"
   },
   "bankDetails": {
     "bank": "Banco Itaú",
@@ -12,14 +12,6 @@
     "account": "519440-4",
     "accountType": "Conta Corrente"
   },
-  "pixDetailsPlaceholder": {
-    "keyTypePlaceholder": "Tipo da Chave (e.g., CPF, E-mail)",
-    "keyValuePlaceholder": "Chave PIX (e.g., email@exemplo.com)"
-  },
-  "transferDetailsPlaceholder": {
-    "label": "Valor a ser transferido",
-    "amountPlaceholder": "R$ 1.234,56"
-  }
 },
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
